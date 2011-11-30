@@ -1,6 +1,6 @@
 bibl2struct.xsl v. 08-03
 
-* Transforms TEI <bibl>s into <biblstruct> bibliographies
+* Transforms TEI &lt;bibl&gt;s into &lt;biblstruct&gt; bibliographies
 * Author: (c) 2008 Ralf Stephan <ralf@ark.in-berlin.de>
 * Published under GPL 2.0, see http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,6 @@ TODO:
 
 * &lt;title type='alt'&gt; with &lt;editor role='translator'&gt;
 * assume from existing &lt;author /&gt; that author of ref is author of work?
-* handle &lt;bibl&gt; &hellip; &lt;series &gt; &hellip; &lt;/series &gt; hellip; &lt;/bibl&gt;
+* handle &lt;bibl&gt; &hellip; &lt;series &gt; &hellip; &lt;/series &gt; &hellip; &lt;/bibl&gt;
 * what do we do we with refs without title?
-* what if we have &lt;author&gt;&lt;corr&gt; &hellip; &gt;/corr&gt;&lt;/author&gt; ?
+* what if we have &lt;author&gt;&lt;corr&gt; &hellip; &lt;/corr&gt;&lt;/author&gt; ?
